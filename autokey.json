@@ -1,5 +1,5 @@
 {
-    "version": "0.95.10",
+    "version": "0.96.0",
     "userCodeDir": null,
     "settings": {
         "isFirstRun": true,
@@ -12,10 +12,10 @@
         "interfaceType": "XRecord",
         "undoUsingBackspace": true,
         "windowDefaultSize": [
-            1699,
-            1377
+            3440,
+            1440
         ],
-        "hPanePosition": 425,
+        "hPanePosition": 861,
         "columnWidths": [
             150,
             50,
@@ -26,7 +26,12 @@
         "workAroundApps": ".*VirtualBox.*|krdc.Krdc",
         "triggerItemByInitial": false,
         "disabledModifiers": [],
-        "scriptGlobals": {}
+        "scriptGlobals": {},
+        "gtkTheme": "classic",
+        "gtkExpandedRows": [
+            "0"
+        ],
+        "pathLastOpen": "0:1"
     },
     "folders": [],
     "toggleServiceHotkey": {
